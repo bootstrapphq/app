@@ -1,0 +1,34 @@
+[
+  {
+    "id": "fav-1777471507227",
+    "uri": "tasks://board",
+    "label": "All Task Lists",
+    "icon": "kanban",
+    "sortOrder": 0,
+    "createdAt": "2026-04-29T14:05:07.227Z"
+  },
+  {
+    "id": "fav-1777482235369",
+    "uri": "notes://note/asdasdasd",
+    "label": "Next Project Planning",
+    "icon": "file-text",
+    "sortOrder": 1,
+    "createdAt": "2026-04-29T17:03:55.369Z"
+  },
+  {
+    "id": "fav-1777482238213",
+    "uri": "notes://note/asdasdasdas",
+    "label": "Weekly Plan",
+    "icon": "file-text",
+    "sortOrder": 2,
+    "createdAt": "2026-04-29T17:03:58.213Z"
+  },
+  {
+    "id": "fav-1777485081409",
+    "uri": "file:///welcome.md",
+    "label": "welcome.md",
+    "icon": "file-text",
+    "sortOrder": 1,
+    "createdAt": "2026-04-29T17:51:21.409Z"
+  }
+]

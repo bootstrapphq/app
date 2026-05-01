@@ -1,0 +1,101 @@
+[
+  {
+    "id": "journal",
+    "name": "Journal",
+    "description": "Today landing with fast-capture, journal, due tasks, and habit check-ins",
+    "longDescription": "A daily home for your workspace. Open the app and land on today — jot journal entries, quick-capture ideas, see tasks due, and check in on active habits, all in one view. Each day is a markdown collection on disk; captures are timestamped and addressable, not buried in prose.",
+    "icon": "sun",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Productivity",
+    "tags": ["journal", "today", "daily", "capture"],
+    "defaultInstalled": true,
+    "featured": true
+  },
+  {
+    "id": "templates",
+    "name": "Templates",
+    "description": "Browse and install project templates",
+    "longDescription": "Scaffold notes, task lists, and websites from a curated library of templates. Every other Bootstrapp extension can contribute its own templates here, making this the single entry point for bootstrapping new resources.",
+    "icon": "sparkles",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Productivity",
+    "tags": ["templates", "scaffolding"],
+    "defaultInstalled": true,
+    "featured": true
+  },
+  {
+    "id": "notes",
+    "name": "Notes",
+    "description": "Lightweight note-taking with tags, search, and meeting templates",
+    "longDescription": "A fast, keyboard-driven note-taking workspace. Capture thoughts in Markdown, organize with tags, run full-text search across every note, and bootstrap common formats (meetings, journals, 1:1s) from built-in templates. Designed to stay out of your way — no accounts, no lock-in, data stays local.",
+    "icon": "file-text",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Productivity",
+    "tags": ["notes", "writing", "knowledge"],
+    "defaultInstalled": true,
+    "featured": true
+  },
+  {
+    "id": "tasks",
+    "name": "Tasks",
+    "description": "Task lists and kanban boards with priorities and due dates",
+    "longDescription": "Track what you're working on across lists and kanban boards. Set priorities, due dates, and statuses; filter by any combination; and move cards between columns with drag-and-drop. Templates cover common flows like weekly planning, sprint boards, and personal triage.",
+    "icon": "square-check",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Productivity",
+    "tags": ["tasks", "todo", "productivity", "kanban"],
+    "defaultInstalled": true,
+    "featured": true
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "description": "Track income, expenses, and balances across multiple accounts",
+    "longDescription": "A personal-finance ledger built into your workspace. Register accounts, log income and expenses, categorize transactions, and see balances update live. Supports multiple currencies, recurring entries, and per-category budgeting without the bloat of a full accounting suite.",
+    "icon": "wallet",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Data",
+    "tags": ["finance", "money", "budget", "accounts"]
+  },
+  {
+    "id": "challenges",
+    "name": "Challenges",
+    "description": "Set and track personal challenges with metrics and timelines",
+    "longDescription": "Turn goals into measurable challenges. Define a metric, a target, and a timeline; log progress entries; and see streaks, momentum, and completion percentage at a glance. Great for habits, training plans, reading lists, and anything that needs sustained progress over time.",
+    "icon": "target",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Productivity",
+    "tags": ["challenges", "goals", "tracking", "habits"]
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "description": "Sync your workspace to a GitHub repository via OAuth",
+    "longDescription": "Back up and version-control your entire Bootstrapp workspace on GitHub. Authorize once with OAuth, pick a repository, and every change can be committed and pushed from the command palette. Supports public and private repos, branch selection, and lightweight conflict resolution.",
+    "icon": "github",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Integrations",
+    "tags": ["github", "sync", "git", "backup"],
+    "homepage": "https://github.com",
+    "repository": "https://github.com/bootstrapp-io/bootstrapp"
+  },
+  {
+    "id": "pages",
+    "name": "Pages",
+    "description": "Build and publish static websites to GitHub Pages",
+    "longDescription": "Turn collections of notes and pages into a deployable static website. Choose a theme, drag pages into a sitemap, preview locally, and publish straight to GitHub Pages with one click. Perfect for blogs, portfolios, docs sites, and lightweight marketing pages.",
+    "icon": "globe",
+    "author": "Bootstrapp",
+    "version": "1.0.0",
+    "category": "Publishing",
+    "tags": ["pages", "website", "publishing", "cms"],
+    "featured": true
+  }
+]

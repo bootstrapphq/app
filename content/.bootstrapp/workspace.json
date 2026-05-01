@@ -1,0 +1,88 @@
+{
+  "panels": [
+    {
+      "id": "panel_1777475271320_d69ztsl",
+      "openResources": [
+        "journal://today",
+        "pages://website/bootstrapp",
+        "pages://preview/bootstrapp",
+        "templates://detail/bootstrapp-showcase",
+        "pages://website/bootstrapp2",
+        "pages://preview/bootstrapp2"
+      ],
+      "activeResourceUri": "pages://website/bootstrapp2"
+    }
+  ],
+  "activePanelId": "panel_1777475271320_d69ztsl",
+  "openFolders": [],
+  "activeActivity": "files",
+  "sidebarVisible": true,
+  "recentResources": [
+    {
+      "uri": "pages://preview/bootstrapp2",
+      "label": "Preview: bootstrapp2",
+      "icon": "eye",
+      "openedAt": "2026-04-30T16:07:27.810Z"
+    },
+    {
+      "uri": "pages://website/bootstrapp2",
+      "label": "Bootstrapp2",
+      "icon": "globe",
+      "openedAt": "2026-04-30T16:06:39.792Z"
+    },
+    {
+      "uri": "templates://detail/bootstrapp-showcase",
+      "label": "Bootstrapp Showcase",
+      "icon": "sparkles",
+      "openedAt": "2026-04-30T13:10:14.443Z"
+    },
+    {
+      "uri": "pages://preview/bootstrapp",
+      "label": "Preview: bootstrapp",
+      "icon": "eye",
+      "openedAt": "2026-04-30T13:02:42.558Z"
+    },
+    {
+      "uri": "pages://website/bootstrapp",
+      "label": "Bootstrapp",
+      "icon": "globe",
+      "openedAt": "2026-04-30T13:02:40.142Z"
+    },
+    {
+      "uri": "templates://detail/landing-page",
+      "label": "Landing Page",
+      "icon": "columns-3",
+      "openedAt": "2026-04-30T13:02:33.335Z"
+    },
+    {
+      "uri": "pages://new",
+      "label": "Pages",
+      "icon": "globe",
+      "openedAt": "2026-04-30T13:02:19.977Z"
+    },
+    {
+      "uri": "journal://today",
+      "label": "Today",
+      "icon": "sun",
+      "openedAt": "2026-04-29T23:23:58.470Z"
+    },
+    {
+      "uri": "tasks:///sprint-5",
+      "label": "Sprint-5",
+      "icon": "kanban",
+      "openedAt": "2026-04-29T17:51:30.007Z"
+    },
+    {
+      "uri": "file:///recipe.md",
+      "label": "recipe.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-29T17:51:29.030Z"
+    },
+    {
+      "uri": "file:///welcome.md",
+      "label": "welcome.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-29T17:51:19.708Z"
+    }
+  ]
+}
