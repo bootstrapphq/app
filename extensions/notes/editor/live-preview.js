@@ -1,11 +1,11 @@
-import { syntaxTree } from "https://esm.sh/@codemirror/language";
-import { StateField } from "https://esm.sh/@codemirror/state";
 import {
   Decoration,
   EditorView,
+  StateField,
   ViewPlugin,
   WidgetType,
-} from "https://esm.sh/@codemirror/view";
+  syntaxTree,
+} from "/node_modules/@bootstrapp/uix/form/codemirror.js";
 
 class WikiLinkWidget extends WidgetType {
   constructor(text, display, onClick) {
